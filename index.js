@@ -20,7 +20,7 @@ let score, isAnswered
 const minutesDisplayed = document.getElementById('time_minutes');
 const secondsDisplayed = document.getElementById('time_seconds');
 var questions 
-let time = 20
+let time = 300
 let timeToCountdown
 let timer
 var resultInfo
