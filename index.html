@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="index.css" rel="stylesheet">
+    <script type="module" defer src="index.js"></script>
+    <title>Quiz App</title>
+</head>
+
+<body>
+    <div class="container" id="counter">
+        <span id="score">Score: <span id="your-score"></span>/10</span>
+        <span id="time">
+            <span id="time_minutes">10</span>
+            <span id="colon">:</span>
+            <span id="time_seconds">00</span>
+        </span>
+    </div>
+    <div class="container" id="main-container">
+        <div id="question-container" class="hide">
+            <div id="question">Question</div>
+            <div id="answer-buttons" class="btn-grid">
+                <button class="btn">Answer 1</button>
+                <button class="btn">Answer 2</button>
+                <button class="btn">Answer 3</button>
+                <button class="btn">Answer 4</button>
+            </div>
+        </div>
+        <div class="controls">
+            <button id="start-btn" class="start-btn btn">Start</button>
+            <button id="next-btn" class="next-btn btn hide">Next</button>
+        </div>
+    </div>
+    <div class="container" id="results">
+        <p id="score-to-show">Twój wynik to: </p>
+        <p id="test-info">Informacje o teście</p>
+    </div>
+    <div class="container" id="menu-to-choose"> 
+        <h2>Wybierz interesujący Cię test</h2>
+        <div id="quizes"> 
+            <!--quizy są generowane dynamicznie -->
+        </div>
+    </div>
+    <div class="container " id="footer">
+        <!-- Menu pojawia się po zakończeniu na skutek naciśnięcia zakończ lub z wyczerpaniem pytań lub zakończeniem czasu-->
+        <button class="btn hide" id="menu">Menu</button>
+        <!-- zakończ ma zmienić się na restart -->
+        <button class="btn" id="finish">Zakończ</button>
+    </div>
+</body>
+
+</html>

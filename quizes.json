@@ -1,0 +1,314 @@
+{
+    "type" : "module",
+    "quizes": [
+        {
+            "topic": "Quiz historyczny",
+            "img": "/images/column.jpg",
+            "questions" : [
+            {
+                "question": "Kiedy założono miasto Rzym?",
+                "answers": [
+                    {"text": "21 kwietnia 753 r. p.n.e", "correct": true},
+                    {"text": "14 lutego 203 r. p.n.e", "correct": false},
+                    {"text": "01 stycznia 453 r. n.e.", "correct": false},
+                    {"text": "3 marca 1000 r. n.e", "correct": false}
+                ]
+            },
+            {
+                "question": "Kiedy odbyła się bitwa pomiędzy siłami krzyżackimi, a polsko-litewskimi pod Grunwaldem?",
+                "answers": [
+                    {"text": "15 lipca 1410", "correct": true},
+                    {"text": "13 lutego 1330", "correct": false},
+                    {"text": "18 marca 1200", "correct": false},
+                    {"text": "19 października 1900", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W którym roku zakończyła się I Wojna Światowa?",
+                "answers": [
+                    {"text": "1918", "correct": true},
+                    {"text": "1823", "correct": false},
+                    {"text": "1920", "correct": false},
+                    {"text": "1945", "correct": false}
+
+                ]
+            },
+            {
+                "question": "Którego prezydenta Polski zamordowano w zamachu 16 grudnia 1922 r",
+                "answers": [
+                    {"text": "Gabriela Narutowicza", "correct": true},
+                    {"text": "Wojciecha Jaruzelskiego", "correct": false},
+                    {"text": "Ignacego Mościckiego", "correct": false},
+                    {"text": "Lecha Wałęse", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W którym roku Krzysztof Kolumb odkrył amerykę?",
+                "answers": [
+                    {"text": "1863", "correct": true},
+                    {"text": "1452", "correct": false},
+                    {"text": "1492", "correct": false},
+                    {"text": "1809", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W którym roku Polska wstąpiła do Unii Europejskiej?",
+                "answers": [
+                    {"text": "2004 roku", "correct": true},
+                    {"text": "1989", "correct": false},
+                    {"text": "1999", "correct": false},
+                    {"text": "2014", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W którym roku powstała Organizacja Narodów Zjednoczonych?",
+                "answers": [
+                    {"text": "1945", "correct": true},
+                    {"text": "1939", "correct": false},
+                    {"text": "1952", "correct": false},
+                    {"text": "1928", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W którym roku Polska wstąpiła do Unii Europejskiej?",
+                "answers": [
+                    {"text": "2004 roku", "correct": true},
+                    {"text": "1989", "correct": false},
+                    {"text": "1999", "correct": false},
+                    {"text": "2014", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W którym roku naszej ery odbył się słynny w historii polskiego średniowiecza Zjazd gnieźnieński ?",
+                "answers": [
+                    {"text": "1000", "correct": true},
+                    {"text": "968", "correct": false},
+                    {"text": "1024", "correct": false},
+                    {"text": "1500", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W którym roku wybuchła Wielka rewolucja francuska?",
+                "answers": [
+                    {"text": "1789", "correct": true},
+                    {"text": "1793", "correct": false},
+                    {"text": "1800", "correct": false},
+                    {"text": "1720", "correct": false}
+
+                ]
+            }
+            ]
+        },
+        {
+            "topic": "Quiz geograficzny",
+            "img": "/images/globe.jpg",
+            "questions" : [
+            {
+                "question": "Która szczyt jest najwyższym szczytem w Europie?",
+                "answers": [
+                    {"text": "Mont Blanc", "correct": true},
+                    {"text": "Giewont", "correct": false},
+                    {"text": "Elbrus", "correct": false},
+                    {"text": "Klimandżaro", "correct": false}
+                ]
+            },
+            {
+                "question": "Na jakim kontynęcie leży Gujana Francuska?",
+                "answers": [
+                    {"text": "w Ameryce Południowej", "correct": true},
+                    {"text": "w Ameryce Północnej", "correct": false},
+                    {"text": "w Azji", "correct": false},
+                    {"text": "w Afryce", "correct": false}   
+                ]
+            },
+            {
+                "question": "Do jakiego kraju należy Giblartar?",
+                "answers": [
+                    {"text": "Wielka Brytania", "correct": true},
+                    {"text": "Francja", "correct": false},
+                    {"text": "Rosja", "correct": false},
+                    {"text": "Włochy", "correct": false}
+                ]
+            },
+            {
+                "question": "Który kraj nie jest sąsiadem Serbii?",
+                "answers": [
+                    {"text": "Chorwacja", "correct": false},
+                    {"text": "Macedonia", "correct": false},
+                    {"text": "Bośnia i Hercegowina", "correct": false},
+                    {"text": "Słowenia", "correct": true}
+
+                ]
+            },
+            {
+                "question": "Jakie miasto jest stolicą Rumunii?",
+                "answers": [
+                    {"text": "Bukareszt", "correct": true},
+                    {"text": "Budapeszt", "correct": false},
+                    {"text": "Skopie", "correct": false},
+                    {"text": "Saloniki", "correct": false}
+
+                ]
+            },
+            {
+                "question": "Jak nazywa się stolica Stanów Zjednoczonych?",
+                "answers": [
+                    {"text": "Waszyngton", "correct": true},
+                    {"text": "Nowy Jork", "correct": false},
+                    {"text": "Filadeflia", "correct": false},
+                    {"text": "San Francisco", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W jakim kraju leży miasto Rejkjawik?",
+                "answers": [
+                    {"text": "Islandia", "correct": true},
+                    {"text": "Dania", "correct": false},
+                    {"text": "Szwecja", "correct": false},
+                    {"text": "Wielka Brytania", "correct": false}
+                ]
+            },
+            {
+                "question": "Jakie kraje zalicza się do tzw. Beneluksu?",
+                "answers": [
+                    {"text": "Belgię, Luksemburg, Holandię", "correct": true},
+                    {"text": "Danię, Szwecję, Finlandię", "correct": false},
+                    {"text": "Arabię Saudyjską, Zjednoczone Emiraty Arabskie, Oman", "correct": false},
+                    {"text": "Polskę, Słowację, Czechy", "correct": false}
+
+                ]
+            },
+            {
+                "question": "Która z wymienionych poniżej rzek jest najdłuższa?",
+                "answers": [
+                    {"text": "Nil", "correct": true},
+                    {"text": "Amazonka", "correct": false},
+                    {"text": "Dunaj", "correct": false},
+                    {"text": "Żółta Rzeka", "correct": false}
+                ]
+            },
+            {
+                "question": "Do jakiego kraju należy Nowafunladia?",
+                "answers": [
+                    {"text": "Kanada", "correct": true},
+                    {"text": "Stany Zjednoczone", "correct": false},
+                    {"text": "Wielka Brytania", "correct": false},
+                    {"text": "Australia", "correct": false}
+
+                ]
+            }
+            ]
+        },
+        {
+            "topic": "Quiz historyczno-geograficzny z 1977 r.",
+            "img": "/images/cccp.jpg",
+            "questions" : [
+            {
+                "question": "W których miejscach ZSRR oraz w jakiej porze roku obywatele tego kraju mogą- jedni obserwować wschód, drudzy zaś zachód słońca?",
+                "answers": [
+                    {"text": "w Kaliningradzie i na Czukotce", "correct": true},
+                    {"text": "w Taszkiencie i Gruzji", "correct": false},
+                    {"text": "w Leningradzie i Doniecku", "correct": false},
+                    {"text": "na Czukotce i we Władywostoku", "correct": false}
+                ]
+            },
+            {
+                "question": "Które morza stanowią nautralne granice ZSRR?",
+                "answers": [
+                    {"text": "Bałtyk,  Morze Beringa, Morze Czarne", "correct": true},
+                    {"text": "Morze Barentsa, Morze śródziemne, Morze Czerwone", "correct": false},
+                    {"text": "Bałtyk, Morze południowo-chińskie", "correct": false},
+                    {"text": "Morze Barentsa, Morze Beringa, Morze Północne", "correct": false}
+                ]
+            },
+            {
+                "question": "Które republiki radzieckie nazywamy zakaukaskimi?",
+                "answers": [
+                    {"text": "Azerbejdżańska SSR, Armeńska SRR, Gruzińska SRR", "correct": true},
+                    {"text": "Uzbecka SRR, Turkmeńska SRR ", "correct": false},
+                    {"text": "Tadżycka SRR, Kirgisjak SRR", "correct": false},
+                    {"text": "Estońska SRR, Białoruska SRR", "correct": false}
+
+                ]
+            },
+            {
+                "question": "Gdzie w ZSRR rosną pomarańcze oraz krzewy herbaciane?",
+                "answers": [
+                    {"text": "w Gruzji", "correct": true},
+                    {"text": "na Białorusi", "correct": false},
+                    {"text": "na Ukrainie", "correct": false},
+                    {"text": "na Czukotce", "correct": false}
+                    
+                ]
+            },
+            {
+                "question": "W której krainie ZSRR panuje równocześnie lato i zimia?",
+                "answers": [
+                    {"text": "Pamir", "correct": true},
+                    {"text": "Ukraina", "correct": false},
+                    {"text": "Sybieria", "correct": false},
+                    {"text": "Czukotka", "correct": false}
+
+                ]
+            },
+            {
+                "question": "W których górach ZSRR znajdują się szczyty Gorkiego?",
+                "answers": [
+                    {"text": "Tien-szan", "correct": true},
+                    {"text": "Kaukaz", "correct": false},
+                    {"text": "Sachalin", "correct": false},
+                    {"text": "Ural", "correct": false}
+
+                ]
+            },
+            {
+                "question": "Gdzie znajdują się najważniejsze zagłębia węglowe ZSRR?",
+                "answers": [
+                    {"text": "w Zagłębiu Donieckim", "correct": true},
+                    {"text": "w Zagłębiu Kuźnieckim", "correct": false},
+                    {"text": "w Zagłębiu Karagandy", "correct": false},
+                    {"text": "w Zagłębiu Peczorskim", "correct": false}
+
+                ]
+            },
+            {
+                "question": "Które z poniższych miast ma najwiecej mieszkańców?",
+                "answers": [
+                    {"text": "Kijów", "correct": true},
+                    {"text": "Baku", "correct": false},
+                    {"text": "Taszkent", "correct": false},
+                    {"text": "Leningrad", "correct": false}
+
+                ]
+            },
+            {
+                "question": "Jak nazywa się miasto w ZSRR leżące na ok. 100 wyspach?",
+                "answers": [
+                    {"text": "Leningrad", "correct": true},
+                    {"text": "Moskwa", "correct": false},
+                    {"text": "Kijów", "correct": false},
+                    {"text": "Grozny", "correct": false}
+                ]
+            },
+            {
+                "question": "Czym wyróżnia się lodołamacz Lenin?",
+                "answers": [
+                    {"text": "napęd atomowy", "correct": true},
+                    {"text": "drewniana konstrukcja", "correct": false},
+                    {"text": "zatonął podczas pierwszego rejsu", "correct": false},
+                    {"text": "brał udział w rewolucji październikowej", "correct": false}
+
+                ]
+            }
+            ]
+        }
+    ]
+}
