@@ -279,7 +279,7 @@ function stopInterval(){
 const quizes = [
         {
             "topic": "Quiz historyczny",
-            "img": "./images/column.jpg",
+            "img": "https://github.com/kdrabczyk/Quiz/blob/main/images/column.jpg",
             "questions" : [
             {
                 "question": "Kiedy założono miasto Rzym?",
@@ -384,7 +384,7 @@ const quizes = [
         },
         {
             "topic": "Quiz geograficzny",
-            "img": "./images/globe.jpg",
+            "img": "https://github.com/kdrabczyk/Quiz/blob/main/images/globe.jpg",
             "questions" : [
             {
                 "question": "Który szczyt jest najwyższym szczytem w Europie?",
@@ -485,7 +485,7 @@ const quizes = [
         },
         {
             "topic": "Quiz historyczno-geograficzny z 1977 r.",
-            "img": "./images/cccp.jpg",
+            "img": "https://github.com/kdrabczyk/Quiz/blob/main/images/cccp.jpg",
             "questions" : [
             {
                 "question": "W których miejscach ZSRR oraz w jakiej porze roku obywatele tego kraju mogą- jedni obserwować wschód, drudzy zaś zachód słońca?",
