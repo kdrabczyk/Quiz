@@ -333,7 +333,7 @@ const quizes = [
             {
                 "question": "W którym roku Polska wstąpiła do Unii Europejskiej?",
                 "answers": [
-                    {"text": "2004 roku", "correct": true},
+                    {"text": "2004", "correct": true},
                     {"text": "1989", "correct": false},
                     {"text": "1999", "correct": false},
                     {"text": "2014", "correct": false}
@@ -353,7 +353,7 @@ const quizes = [
             {
                 "question": "W którym roku Polska wstąpiła do Unii Europejskiej?",
                 "answers": [
-                    {"text": "2004 roku", "correct": true},
+                    {"text": "2004", "correct": true},
                     {"text": "1989", "correct": false},
                     {"text": "1999", "correct": false},
                     {"text": "2014", "correct": false}
@@ -396,7 +396,7 @@ const quizes = [
                 ]
             },
             {
-                "question": "Na jakim kontynęcie leży Gujana Francuska?",
+                "question": "Na jakim kontynencie leży Gujana Francuska?",
                 "answers": [
                     {"text": "w Ameryce Południowej", "correct": true},
                     {"text": "w Ameryce Północnej", "correct": false},
